@@ -3,16 +3,13 @@
     "name": "Bezrukov Yra",
     "email": "bezrukov-yra@mail.ru"
   },
-  "bugs": {
-    "url": "https://github.com"
-  },
   "deprecated": false,
-  "description": "Resize, stretching elements without dependencies on typescript ",
+  "description": "Resize, stretching elements without dependencies on typescript",
   "files": [
     "src",
 	"dist"
   ],
-  "homepage": "https://github.com/",
+  "homepage": "https://github.com/bezrukovyura/drag-resize-border",
   "keywords": [
     "drag-resize-border"
   ],
@@ -23,7 +20,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/charliekassel/vuejs-datepicker.git"
+    "url": "git+https://github.com/bezrukovyura/drag-resize-border.git"
   },
   "scripts": {
    "onInit": "npm i && npm i -g parcel",
