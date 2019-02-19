@@ -1,0 +1,33 @@
+{
+  "author": {
+    "name": "Bezrukov Yra",
+    "email": "bezrukov-yra@mail.ru"
+  },
+  "bugs": {
+    "url": "https://github.com"
+  },
+  "deprecated": false,
+  "description": "Resize, stretching elements without dependencies on typescript ",
+  "files": [
+    "src",
+	"dist"
+  ],
+  "homepage": "https://github.com/",
+  "keywords": [
+    "drag-resize-border"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "name": "drag-resize-border",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charliekassel/vuejs-datepicker.git"
+  },
+  "scripts": {
+   "onInit": "npm i && npm i -g parcel",
+   "build": "parcel build src/index.ts --out-dir dist/"
+  },
+  "version": "0.0.1"
+}
