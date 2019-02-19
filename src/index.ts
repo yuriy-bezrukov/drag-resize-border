@@ -60,6 +60,7 @@ export class dragResizeBorder {
     
 }
 
+(<any>window).dragResizeBorder = dragResizeBorder;
 //export enum DirectionResize {
 //  //left = "left",
 //  right = "right"

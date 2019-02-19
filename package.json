@@ -7,7 +7,7 @@
   "description": "Resize, stretching elements without dependencies on typescript",
   "files": [
     "src",
-	"dist"
+    "dist"
   ],
   "homepage": "https://github.com/bezrukovyura/drag-resize-border",
   "keywords": [
@@ -23,8 +23,8 @@
     "url": "git+https://github.com/bezrukovyura/drag-resize-border.git"
   },
   "scripts": {
-   "onInit": "npm i && npm i -g parcel",
-   "build": "parcel build src/index.ts --out-dir dist/"
+    "onInit": "npm i && npm i -g parcel",
+    "build": "parcel build src/index.ts --out-dir dist/"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
