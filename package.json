@@ -11,7 +11,10 @@
   ],
   "homepage": "https://github.com/bezrukovyura/drag-resize-border",
   "keywords": [
-    "drag-resize-border"
+    "drag-resize-border",
+    "resize-div",
+    "resize",
+    "drag side"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -26,5 +29,5 @@
     "onInit": "npm i && npm i -g parcel",
     "build": "parcel build src/index.ts --out-dir dist/"
   },
-  "version": "0.0.2"
+  "version": "0.0.4"
 }
